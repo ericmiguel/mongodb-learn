@@ -1,0 +1,25 @@
+{
+  "name": "mongodb-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmiguel/mongodb-notes.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "ericmiguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmiguel/mongodb-notes/issues"
+  },
+  "homepage": "https://github.com/ericmiguel/mongodb-notes#readme",
+  "dependencies": {
+    "mongodb": "5.11.15"
+  }
+}
